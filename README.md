@@ -4,5 +4,5 @@
 系級：科技系一年級
 /ＨＷ1已繳交：hw1.ipynb
 /ＨＷ2已繳交：hw2.ipynb
-/ＨＷ3已繳交：hw3.ipynb
+/ＨＷ3已繳交：hw3.ipynb,ntnu_web.csv,ntnu_web.json
 [https://youtube.com/shorts/VuMiFm72g40?si=8GZstZD_oEjXN5-4]
