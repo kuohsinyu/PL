@@ -6,3 +6,4 @@
 /ＨＷ2已繳交：hw2.ipynb
 /ＨＷ3已繳交：hw3.ipynb,ntnu_web.csv,ntnu_web.json
 [https://youtube.com/shorts/VuMiFm72g40?si=8GZstZD_oEjXN5-4]
+/HW4已繳交：hw4.ipynb
